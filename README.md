@@ -3,6 +3,8 @@
 
 
 
+
+
 ##  一些学习 IntelliJ IDEA 的资源
 
 - 官方的教学视频：https://www.youtube.com/user/intellijideavideo/playlists
@@ -14,6 +16,13 @@
 - WebStorm 的中文汉化包：https://github.com/ewen0930/WebStorm-Chinese
 - PhpStorm Chinese Language Pack（中文语言包）:https://github.com/ewen0930/PhpStorm-Chinese
 - PyCharm Chinese Language Pack（中文语言包): https://github.com/ewen0930/PyCharm-Chinese
+- IntelliJ IDEA 的编程等宽字体 Hack：https://github.com/source-foundry/Hack
+- IntelliJ IDEA 的编程等宽字体 fantasque-sans： https://github.com/belluzj/fantasque-sans
+- IntelliJ IDEA 的第三方主题 Material Theme UI ：https://github.com/ChrisRM/material-theme-jetbrains
+- IntelliJ IDEA 的编程代码颜色设定：https://github.com/agileago/agileTheme
+
+
+
 
 
 
