@@ -8,17 +8,35 @@
 ##  一些学习 IntelliJ IDEA 的资源
 
 - 官方的教学视频：https://www.youtube.com/user/intellijideavideo/playlists
+
 - 官方的插件库：https://plugins.jetbrains.com/idea
+
 - 官方文档地址：https://www.jetbrains.com/help/idea/meet-intellij-idea.html
+
 - 官方 Twitter：https://twitter.com/intellijidea
+
+- JetBrains Toolbox 专业开发工具 学生免费授权计划：https://www.jetbrains.com/student/
+
+- 免费教育邮箱在线申请：http://51.ruyo.net/tag/%E5%85%8D%E8%B4%B9%E6%95%99%E8%82%B2%E9%82%AE%E7%AE%B1/
+
+- 在校师生福利合集：Apple、微软、Github等产品教育优惠购买指南：http://51.ruyo.net/4178.html
+
 - 推荐一个比较好的中文文档教学：https://github.com/judasn/IntelliJ-IDEA-Tutorial
+
 - Java IDE Idea 的中文汉化包：https://github.com/Yihy/resources_cn
+
 - WebStorm 的中文汉化包：https://github.com/ewen0930/WebStorm-Chinese
+
 - PhpStorm Chinese Language Pack（中文语言包）:https://github.com/ewen0930/PhpStorm-Chinese
+
 - PyCharm Chinese Language Pack（中文语言包): https://github.com/ewen0930/PyCharm-Chinese
+
 - IntelliJ IDEA 的编程等宽字体 Hack：https://github.com/source-foundry/Hack
+
 - IntelliJ IDEA 的编程等宽字体 fantasque-sans： https://github.com/belluzj/fantasque-sans
+
 - IntelliJ IDEA 的第三方主题 Material Theme UI ：https://github.com/ChrisRM/material-theme-jetbrains
+
 - IntelliJ IDEA 的编程代码颜色设定：https://github.com/agileago/agileTheme
 
 
