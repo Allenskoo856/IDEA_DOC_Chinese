@@ -6,5 +6,9 @@
 
 -    ##### [疯狂java讲义](https://book.douban.com/subject/25959184/)：购买链接：[京东](https://re.jd.com/cps/item/11514816.html?cu=true&utm_source=www.tiantianbianma.com&utm_medium=unionshejiao&utm_campaign=t_2010846566_&utm_term=315d75a90a474bd1b132995ace1abbe8&abt=3)  [天猫](https://detail.tmall.com/item.htm?id=44421248282&ali_trackid=2:mm_122854530_33746427_120158180:1514514478_334_1174702581&pvid=10_183.220.27.58_528_1500475197883)  [电子书分享]()
 
--    ##### [JSP & Servlet学习笔记](https://book.douban.com/subject/10569600/) ：购买链接：京东  天猫  电子书分享
+-    ##### [JSP & Servlet学习笔记](https://book.douban.com/subject/10569600/) ：购买链接：[京东](https://re.jd.com/cps/item/10157251.html?cu=true&utm_source=www.tiantianbianma.com&utm_medium=unionshejiao&utm_campaign=t_2010846566_&utm_term=2a1bed3033dc48dda8749ba1ae1602ee&abt=3)  [天猫](https://detail.tmall.com/item.htm?id=538148545114&ali_trackid=2:mm_122854530_33746427_120158180:1514619083_277_1433155883&pvid=10_183.220.27.58_724_1500475553611)  电子书分享
+
+-    ##### [轻量级Java EE企业应用实战](https://book.douban.com/subject/6002664/)
+
+-    ##### 
 
