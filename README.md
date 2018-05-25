@@ -3,7 +3,8 @@
 
 
 
-
+### Free JetBrains Products License Server
+http://jetbrains.license.laucyun.com/
 
 ##  一些学习 IntelliJ IDEA 的资源
 
